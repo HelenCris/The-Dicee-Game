@@ -8,9 +8,9 @@ document.getElementById("img2").src = `images/dice${randomNumber2}.png`;
 //Change the names 
 
 if (randomNumber1 < randomNumber2) { 
-    document.getElementById("h1").innerHTML = "Dicee 1 Wins!";
+    document.getElementById("h1").innerHTML = "Dicee 2 Wins!";
 } else if (randomNumber1 === randomNumber2) { 
     document.getElementById("h1").innerHTML = "Draw!";
 } else if (randomNumber2 < randomNumber1) { 
-    document.getElementById("h1").innerHTML = "Dicee 2 Wins!";
+    document.getElementById("h1").innerHTML = "Dicee 1 Wins!";
 }
