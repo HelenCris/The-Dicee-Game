@@ -6,7 +6,7 @@
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- HTML3
-- CSS5j
+- HTML
+- CSS
 - JAVASCRIPT
 
